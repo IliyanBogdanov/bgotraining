@@ -1,0 +1,11 @@
+C:\Users\iliyan.bogdanov\source\repos\TestProjectBGO\bin\Debug\netcoreapp3.0\TestProjectBGO.exe
+C:\Users\iliyan.bogdanov\source\repos\TestProjectBGO\bin\Debug\netcoreapp3.0\TestProjectBGO.deps.json
+C:\Users\iliyan.bogdanov\source\repos\TestProjectBGO\bin\Debug\netcoreapp3.0\TestProjectBGO.runtimeconfig.json
+C:\Users\iliyan.bogdanov\source\repos\TestProjectBGO\bin\Debug\netcoreapp3.0\TestProjectBGO.runtimeconfig.dev.json
+C:\Users\iliyan.bogdanov\source\repos\TestProjectBGO\bin\Debug\netcoreapp3.0\TestProjectBGO.dll
+C:\Users\iliyan.bogdanov\source\repos\TestProjectBGO\bin\Debug\netcoreapp3.0\TestProjectBGO.pdb
+C:\Users\iliyan.bogdanov\source\repos\TestProjectBGO\obj\Debug\netcoreapp3.0\TestProjectBGO.csprojAssemblyReference.cache
+C:\Users\iliyan.bogdanov\source\repos\TestProjectBGO\obj\Debug\netcoreapp3.0\TestProjectBGO.AssemblyInfoInputs.cache
+C:\Users\iliyan.bogdanov\source\repos\TestProjectBGO\obj\Debug\netcoreapp3.0\TestProjectBGO.AssemblyInfo.cs
+C:\Users\iliyan.bogdanov\source\repos\TestProjectBGO\obj\Debug\netcoreapp3.0\TestProjectBGO.dll
+C:\Users\iliyan.bogdanov\source\repos\TestProjectBGO\obj\Debug\netcoreapp3.0\TestProjectBGO.pdb
